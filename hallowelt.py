@@ -1,3 +1,3 @@
 from time import *
 print("Hallo Welt!")
-sleep(2)
+sleep(1.8)
